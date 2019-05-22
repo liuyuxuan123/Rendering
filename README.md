@@ -25,7 +25,7 @@ the edge. In the Phong shading, vertex normals are interpolate
     </td>
 </tr></table>
 
-<p align="center"><img src="3DModel/images/perlin_texture" alt="drawing" width="300" /></p>
+<p align="center"><img src="3DModel/images/perlin_texture.png" alt="drawing" width="300" /></p>
 
 `Perlin Noise`
 

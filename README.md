@@ -38,7 +38,7 @@ the edge. In the Phong shading, vertex normals are interpolate
 `Grass Texture Ball`
 
 
-## Two Cool Cow
+## Two Cool Cows
 
 <p align="center"><img src="3DModel/images/metal_cow.png" alt="drawing" width="300" /></p>
 <p align="center"><img src="3DModel/images/metal_cow2.png" alt="drawing" width="300" /></p>

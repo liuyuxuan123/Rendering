@@ -6,7 +6,8 @@ the edge. In the Phong shading, vertex normals are interpolate
 
 <p align="center"><img src="3DModel/images/constant_cow.png" alt="drawing" width="200" /></p>
 
-`Constant Shading Model`
+`<center>Constant Shading Model</center>`
+
 
 <p align="center"><img src="3DModel/images/gouraud_cow.png" alt="drawing" width="200" /></p>
 

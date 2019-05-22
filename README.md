@@ -3,15 +3,16 @@ In the Constant shading, only vertex normals are used to calculate vertex colors
 the Gouraud shading, the color is calculated at each vertex and then interpolated along
 the edge. In the Phong shading, vertex normals are interpolate
 
-![](3DModel/images/constant_cow.png)
+
+<p align="center"><img src="3DModel/images/constant_cow.png" alt="drawing" width="200" /></p>
 
 `Constant Shading Model`
 
-![](3DModel/images/gouraud_cow.png)
+<p align="center"><img src="3DModel/images/gouraud_cow.png" alt="drawing" width="200" /></p>
 
 `Gouraud Shading Model`
 
-![](3DModel/images/phong_cow.png)
+<p align="center"><img src="3DModel/images/phong_cow.png" alt="drawing" width="200" /></p>
 
 `Phong Shading Model`
 

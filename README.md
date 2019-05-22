@@ -18,10 +18,10 @@ the edge. In the Phong shading, vertex normals are interpolate
 
 <table><tr>
     <td >
-        <center> <img src="3DModel/images/gouraud_ball.png"> Gourand Shading </center>
+        <center> <img src="3DModel/images/gouraud_ball.png" width="300" > Gourand Shading </center>
     </td>
     <td >
-        <center><img src="3DModel/images/phong_ball.png">Phong Shading</center>
+        <center><img src="3DModel/images/phong_ball.png" width="300" >Phong Shading</center>
     </td>
 </tr></table>
 

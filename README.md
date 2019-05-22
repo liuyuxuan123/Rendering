@@ -25,3 +25,18 @@ the edge. In the Phong shading, vertex normals are interpolate
     </td>
 </tr></table>
 
+<p align="center"><img src="3DModel/images/perlin_texture" alt="drawing" width="300" /></p>
+
+`Perlin Noise`
+
+<p align="center"><img src="3DModel/images/perlin_ball.png" alt="drawing" width="300" /></p>
+
+`Perlin Texture Ball`
+
+<p align="center"><img src="3DModel/images/grass_ball.png" alt="drawing" width="300" /></p>
+
+`Grass Texture Ball`
+
+<p align="center"><img src="3DModel/images/metal_ball.png" alt="drawing" width="300" /></p>
+
+`Metal Texture Ball`
